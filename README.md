@@ -1,0 +1,2 @@
+# outsourcing
+Mapping has been well documented for its ability to help organizations deal with uncertainty and gain competitive advantage. To demonstrate potential use cases for mapping, A Practical Guide to Outsourcing is the first of a series of papers that helps contextualize the principles of mapping and how to apply it to well understood, but often challenging, business drivers and requirements.
